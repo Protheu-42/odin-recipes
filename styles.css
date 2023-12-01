@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(0, 255, 255, 0.178);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.full-content {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2,
+h1 {
+    color: brown;
+}
+
+h2 {
+    border-bottom: 5px solid brown;
+}
